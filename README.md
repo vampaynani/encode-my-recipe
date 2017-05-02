@@ -1,4 +1,4 @@
-Extract my recipe
+Encode my recipe
 ==================
 
 To get a recipe run:
@@ -7,4 +7,4 @@ To get a recipe run:
 Example:
 `node index.js 'http://ohmyveggies.com/make-freeze-quinoa-pancakes-with-strawberry-compote/'`
 
-The scraped recipe will be found in the data directory.
+The scrapped recipe will be found in the data directory.
